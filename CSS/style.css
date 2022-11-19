@@ -1,0 +1,163 @@
+#title {
+    background-color: rgba(6, 96, 26, 0.66);
+
+}
+
+.navbar {
+    padding-bottom: 3rem;
+}
+
+.navbar-brand {
+    width: 359px;
+    height: 75px;
+    left: 28px;
+    top: 23px;
+    background: #E5E5E5;
+}
+.navbar-name{
+    color: black;
+    text-decoration: none;
+    padding: 2%;
+}
+
+.user-login{
+    padding: 0 0 0 40px;
+    
+} 
+.arrow {
+    margin-left: 10px;
+    /* padding: 0; */
+}
+.arrow-icon{
+    color: white;
+}
+.form-control{
+    width: 257px;
+    height: 23px;
+    left: 781px;
+    top: 52px;
+    background: #FFFAFA;
+    border: 1px solid #2D5A9D;
+    border-radius: 5px;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link-1 {
+    position: absolute;
+    width: 145px;
+    height: 18px;
+    left: 453px;
+    top: 98px;
+    text-decoration: none;
+    color: #E8EEFC;
+}
+
+.nav-link-2{
+    position: absolute;
+    width: 144px;
+    height: 18px;
+    left: 600px;
+    top: 98px;
+    text-decoration: none;
+    color: #E8EEFC;
+}
+
+.nav-link-3{
+    position: absolute;
+    width: 144px;
+    height: 18px;
+    left: 759px;
+    top: 98px;
+    text-decoration: none;
+    color: #E8EEFC;
+}
+
+.nav-link-4{
+    position: absolute;
+    width: 145px;
+    height: 18px;
+    left: 886px;
+    top: 98px;
+    text-decoration: none;
+    color: #E8EEFC;
+}
+
+.nav-link-5{
+    position: absolute;
+    width: 118px;
+    height: 18px;
+    left: 1030px;
+    top: 100px;
+    text-decoration: none;
+    color: #E8EEFC;
+}
+
+.nav-link-6 {
+    position: absolute;
+    width: 117px;
+    height: 18px;
+    left: 1182px;
+    top: 100px;
+    text-decoration: none;
+    color: #E8EEFC;
+} 
+
+/* login */
+
+#login {
+    /* position: absolute; */
+    margin: 50px 30px 300px 850px;
+    width: 313px;
+    height: 424px;
+    left: 971px;
+    top: 193px;  
+    background: rgba(241, 255, 244, 0.84);
+    border: 1px solid #2D5A9D;
+    border-radius: 5px
+}
+
+.panel-title {
+    
+}
+
+.new{
+    border: 1px solid green;
+    
+}
+
+.account-details {
+    line-height: 0.5%;
+    text-align: center;
+    padding-top: 35px;
+    text-decoration: none;
+
+}
+hr{ 
+    border: 1.5px solid black;
+}
+
+/* footer */
+
+#footer {
+   padding: 0px 100px 20px 100px;
+}
+
+.chat-icon{
+    color: skyblue;
+}
+h4{
+    line-height: 4rem;
+}
+p {
+    line-height: 0.5rem;
+    color: #363636;
+}
+.link{
+    text-decoration: none;
+}
+.chat{
+    color: #B01A1A;
+}
